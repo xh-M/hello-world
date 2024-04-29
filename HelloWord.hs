@@ -12,3 +12,5 @@ main = do
 
 
   print "这是分支1的更改"
+
+  putStrLn "zhe shi fen zhi 3 de xiu gai"
