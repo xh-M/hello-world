@@ -15,3 +15,5 @@ main = do
 
   putStrLn "zhe shi fen zhi 3 de xiu gai"
   print "hahahahahahaha"
+
+  print "xxxxoooooo909090909090909"
